@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest planet?",
+      "answerOptions": [
+        {"text": "Saturn", "isCorrect": false},
+        {"text": "Earth", "isCorrect": false},
+        {"text": "Neptune", "isCorrect": false},
+        {"text": "Jupiter", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answerOptions": [
+        {"text": "Harper Lee", "isCorrect": true},
+        {"text": "Mark Twain", "isCorrect": false},
+        {"text": "F. Scott Fitzgerald", "isCorrect": false},
+        {"text": "Ernest Hemingway", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the capital city of France?",
+      "answerOptions": [
+        {"text": "Berlin", "isCorrect": false},
+        {"text": "Madrid", "isCorrect": false},
+        {"text": "Rome", "isCorrect": false},
+        {"text": "Paris", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "answerOptions": [
+        {"text": "Gold", "isCorrect": false},
+        {"text": "Oxygen", "isCorrect": true},
+        {"text": "Silver", "isCorrect": false},
+        {"text": "Iron", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answerOptions": [
+        {"text": "K2", "isCorrect": false},
+        {"text": "Kangchenjunga", "isCorrect": false},
+        {"text": "Mount Everest", "isCorrect": true},
+        {"text": "Lhotse", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "answerOptions": [
+        {"text": "1905", "isCorrect": false},
+        {"text": "1912", "isCorrect": true},
+        {"text": "1923", "isCorrect": false},
+        {"text": "1898", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answerOptions": [
+        {"text": "Monaco", "isCorrect": false},
+        {"text": "Vatican City", "isCorrect": true},
+        {"text": "San Marino", "isCorrect": false},
+        {"text": "Liechtenstein", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answerOptions": [
+        {"text": "Vincent van Gogh", "isCorrect": false},
+        {"text": "Leonardo da Vinci", "isCorrect": true},
+        {"text": "Pablo Picasso", "isCorrect": false},
+        {"text": "Claude Monet", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answerOptions": [
+        {"text": "Mars", "isCorrect": true},
+        {"text": "Venus", "isCorrect": false},
+        {"text": "Jupiter", "isCorrect": false},
+        {"text": "Saturn", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the speed of light?",
+      "answerOptions": [
+        {"text": "300,000 km/s", "isCorrect": true},
+        {"text": "150,000 km/s", "isCorrect": false},
+        {"text": "450,000 km/s", "isCorrect": false},
+        {"text": "600,000 km/s", "isCorrect": false}
+      ]
+    }
+  ]
+  

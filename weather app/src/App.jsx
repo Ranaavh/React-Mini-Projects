@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import SearchForm from './components/searchForm';
 import WeatherCard from './components/weatherCard';
 import './App.css';
@@ -24,7 +24,9 @@ const App = () => {
       setWeatherData(null);
     }
   };
-
+  useEffect(()=>{
+    fetchWeather("London");
+  },[])
   return (
     <div className="app">
       <h1 className='title'>Weather App</h1>

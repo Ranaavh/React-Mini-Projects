@@ -11,13 +11,14 @@ Welcome to my collection of React projects! This repository contains various Rea
 
 ### 2. Quiz App
 
-Live Link:https://quiz-app-one-iota-23.vercel.app/
+**Live Link**:https://quiz-app-one-iota-23.vercel.app/
 
 **Description:** A quiz application built with React, featuring a set of questions and multiple-choice answers. Users can select answers, view their score, and navigate through questions.
 
 
 
 ### 3. Weather App
+**Live Link**:https://weather-app-ruby-tau-89.vercel.app/
 
 **Description:** A weather application that fetches current weather information using the OpenWeatherMap API. Users can search for weather by city and view detailed weather conditions.
 

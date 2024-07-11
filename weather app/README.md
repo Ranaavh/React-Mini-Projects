@@ -2,7 +2,7 @@
 # Weather App
 
 Welcome to the Weather App! This application fetches current weather data using the OpenWeatherMap API based on the city entered by the user.
-
+Live Link:https://weather-app-ruby-tau-89.vercel.app/
 ## Features
 
 - Fetches and displays current weather information for a specified city.
